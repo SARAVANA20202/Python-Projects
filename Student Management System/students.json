@@ -1,6 +1,6 @@
 90{
     "1": {
-        "name": "saravana",
+        "name": "Saravana",
         "age": 21,
         "department": "ECE",
         "marks": 95.0
@@ -23,4 +23,5 @@
         "department": "ECE",
         "marks": 90.0
     }
+
 }
